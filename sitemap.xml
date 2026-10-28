@@ -41,16 +41,6 @@
 <xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/tr/contact/" />
 </url>
 <url>
-<loc>https://bc1907.github.io/projects/oddkin-operator/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/projects/oddkin-operator/" />
-<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/tr/projects/oddkin-operator/" />
-</url>
-<url>
-<loc>https://bc1907.github.io/tr/projects/oddkin-operator/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/projects/oddkin-operator/" />
-<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/tr/projects/oddkin-operator/" />
-</url>
-<url>
 <loc>https://bc1907.github.io/projects/fashion-paradise/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/projects/fashion-paradise/" />
 <xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/tr/projects/fashion-paradise/" />
@@ -79,5 +69,25 @@
 <loc>https://bc1907.github.io/tr/projects/cloudbase/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/projects/cloudbase/" />
 <xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/tr/projects/cloudbase/" />
+</url>
+<url>
+<loc>https://bc1907.github.io/projects/oddkin-operator/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/projects/oddkin-operator/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/tr/projects/oddkin-operator/" />
+</url>
+<url>
+<loc>https://bc1907.github.io/tr/projects/oddkin-operator/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/projects/oddkin-operator/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/tr/projects/oddkin-operator/" />
+</url>
+<url>
+<loc>https://bc1907.github.io/projects/talos/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/projects/talos/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/tr/projects/talos/" />
+</url>
+<url>
+<loc>https://bc1907.github.io/tr/projects/talos/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/projects/talos/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/tr/projects/talos/" />
 </url>
 </urlset>
