@@ -37,60 +37,6 @@
 <xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/projects/" />
 </url>
 <url>
-<loc>https://bc1907.github.io/isleworks-preview/en/about/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/about/" />
-<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/about/" />
-<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/about/" />
-</url>
-<url>
-<loc>https://bc1907.github.io/isleworks-preview/tr/about/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/about/" />
-<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/about/" />
-<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/about/" />
-</url>
-<url>
-<loc>https://bc1907.github.io/isleworks-preview/ru/about/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/about/" />
-<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/about/" />
-<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/about/" />
-</url>
-<url>
-<loc>https://bc1907.github.io/isleworks-preview/en/contact/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/contact/" />
-<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/contact/" />
-<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/contact/" />
-</url>
-<url>
-<loc>https://bc1907.github.io/isleworks-preview/tr/contact/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/contact/" />
-<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/contact/" />
-<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/contact/" />
-</url>
-<url>
-<loc>https://bc1907.github.io/isleworks-preview/ru/contact/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/contact/" />
-<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/contact/" />
-<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/contact/" />
-</url>
-<url>
-<loc>https://bc1907.github.io/isleworks-preview/en/services/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/services/" />
-<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/services/" />
-<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/services/" />
-</url>
-<url>
-<loc>https://bc1907.github.io/isleworks-preview/tr/services/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/services/" />
-<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/services/" />
-<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/services/" />
-</url>
-<url>
-<loc>https://bc1907.github.io/isleworks-preview/ru/services/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/services/" />
-<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/services/" />
-<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/services/" />
-</url>
-<url>
 <loc>https://bc1907.github.io/isleworks-preview/en/projects/fashion-paradise/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/projects/fashion-paradise/" />
 <xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/projects/fashion-paradise/" />
@@ -161,5 +107,59 @@
 <xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/projects/talos/" />
 <xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/projects/talos/" />
 <xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/projects/talos/" />
+</url>
+<url>
+<loc>https://bc1907.github.io/isleworks-preview/en/about/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/about/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/about/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/about/" />
+</url>
+<url>
+<loc>https://bc1907.github.io/isleworks-preview/tr/about/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/about/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/about/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/about/" />
+</url>
+<url>
+<loc>https://bc1907.github.io/isleworks-preview/ru/about/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/about/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/about/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/about/" />
+</url>
+<url>
+<loc>https://bc1907.github.io/isleworks-preview/en/services/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/services/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/services/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/services/" />
+</url>
+<url>
+<loc>https://bc1907.github.io/isleworks-preview/tr/services/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/services/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/services/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/services/" />
+</url>
+<url>
+<loc>https://bc1907.github.io/isleworks-preview/ru/services/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/services/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/services/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/services/" />
+</url>
+<url>
+<loc>https://bc1907.github.io/isleworks-preview/en/contact/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/contact/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/contact/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/contact/" />
+</url>
+<url>
+<loc>https://bc1907.github.io/isleworks-preview/tr/contact/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/contact/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/contact/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/contact/" />
+</url>
+<url>
+<loc>https://bc1907.github.io/isleworks-preview/ru/contact/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://bc1907.github.io/isleworks-preview/en/contact/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://bc1907.github.io/isleworks-preview/tr/contact/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://bc1907.github.io/isleworks-preview/ru/contact/" />
 </url>
 </urlset>
